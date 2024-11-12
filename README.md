@@ -1,4 +1,4 @@
-# advent_of_sql
+# Advent of SQL
 
 This repo contains my solutions to puzzles from the [Advent of SQL](https://adventofsql.com/) competition.
 
