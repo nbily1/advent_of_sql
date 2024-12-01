@@ -66,7 +66,5 @@ select
 from parsed p
 	inner join toy_catalogue tcp
     	on p.primary_wish = tcp.toy_name
-	inner join toy_catalogue tcb
-	on p.backup_wish = tcb.toy_name
 order by 1
 limit 5
